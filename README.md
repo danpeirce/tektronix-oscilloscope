@@ -11,6 +11,10 @@ in comparison to the scope itself, probably limited by the USB transfer speed.
 TODO: incorporate some more UI to allow freezing and saving of data. Save / recall of scope
 settings. Display of channel / timebase parameters.
 
+## Screen-shot
+
+![](images/Screenshot2015-03-29.png)
+
 ## Related Notes Regarding Interacting with TBS1022
 
 Early notes by Dan Peirce related to communication with TBS1022 at
