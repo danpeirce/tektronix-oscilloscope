@@ -2,6 +2,8 @@
 Allows live capture and display of TBS1022 Digital Storage Oscilloscope.
 
 @author: James Hoyland (posted here with permission and cc0 applied)
+Kwanlten Polytechnic University
+Physics for Modern Technology
 
 Oscilloscope replicates the standard 2 channel YT display of the Tektronix TBS1022
 scope in a live animated plot. Its main purpose was to allow the live display of oscilloscope
