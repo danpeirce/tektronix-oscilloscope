@@ -1,8 +1,8 @@
 # tektronix-oscilloscope
 Allows live capture and display of TBS1022 Digital Storage Oscilloscope.
 
-@author: James Hoyland (posted here with permission and cc0 applied)
-Kwanlten Polytechnic University
+@author: James Hoyland (posted here with permission and cc0 applied)  
+Kwanlten Polytechnic University  
 Physics for Modern Technology
 
 Oscilloscope replicates the standard 2 channel YT display of the Tektronix TBS1022
