@@ -4,6 +4,8 @@
 Created on Fri Mar 27 17:06:09 2015
 
 @author: James Hoyland
+Kwanlten Polytechnic University
+Physics for Modern Technology
 
 Oscilloscope replicates the standard 2 channel YT display of the Tektronix TBS1022
 scope in a live animated plot. Its main purpose was to allow the live display of oscilloscope
