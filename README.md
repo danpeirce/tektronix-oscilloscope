@@ -11,6 +11,11 @@ in comparison to the scope itself, probably limited by the USB transfer speed.
 TODO: incorporate some more UI to allow freezing and saving of data. Save / recall of scope
 settings. Display of channel / timebase parameters.
 
+## Related Notes Regarding Interacting with TBS1022
+
+Early notes by Dan Peirce related to communication with TBS1022 at
+<http://members.shaw.ca/danielpeirce/notes/python.html#controlling-gpib-rs232-and-usb-instruments>
+
 ## CC0
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
